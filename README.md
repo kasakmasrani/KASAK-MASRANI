@@ -1,41 +1,77 @@
-# 👋 Hi, I'm Kasak Masrani  
-🎓 B.E. Computer Engineering Student | 💻 Aspiring Software Developer | 🚀 Hackathon Enthusiast
+<h1>Hi there 👋, I'm Kasak Masrani</h1>
+<h3>Aspiring Software Developer | Tech Enthusiast | Problem Solver</h3>
+
+<p>
+  <a href="mailto:kasakmasrani@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/kasak-masrani-3a002933a"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a>
+</p>
 
 ---
 
-## 🌟 About Me
-I’m a passionate and curious tech enthusiast, currently pursuing my B.E. in Computer Engineering. I love building innovative solutions that solve real-world problems, especially in the financial domain. I believe in continuous learning and collaboration through projects, hackathons, and open-source contributions.
+### 👩‍💻 About Me
 
-- 🧠 Always exploring: New tech, AI/ML, and backend frameworks
-- 👩‍💻 Team player and problem solver
+I'm a passionate software engineering student currently pursuing **B.E. in Computer Engineering**, with a deep interest in **full-stack development**, **AI-driven solutions**, and **problem-solving**. I love turning ideas into reality through clean, efficient code and enjoy exploring new technologies that can shape impactful solutions.
 
----
-
-## 🛠️ Technical Skills
-
-- **Languages:** Python, JavaScript, Java, SQL  
-- **Frontend:** HTML5, CSS3, Tailwind CSS, React.js  
-- **Backend:** Django, Node.js  
-- **Database:** MySQL  
-- **Tools:** Git, VS Code
+💡 I'm currently working on:
+- **Fraud_Shield** – An **AI-based Financial Fraud Detection System** (Hackathon 6.0 project)
+- Gaining deeper expertise in **Django** and **data-driven applications**
 
 ---
 
-## 🚀 Projects
+### 🛠️ Technical Skills
 
-### 🔐 FraudShield
-AI-Based Financial Fraud Detection System to detect suspicious transactions and patterns using Django & ML.
+**Languages:**  
+`Python` `JavaScript` `Java` `SQL`
 
-### 💸 Personal Budget Advisor
-A smart budgeting system for students to manage and track expenses, built using Python and MySQL.
+**Frontend:**  
+`HTML5` `CSS3` `Tailwind CSS`
+
+**Backend:**  
+`Django` `Node.js` `Java`
+
+**Database & Tools:**  
+`MySQL` `MongoDB` `Git` `GitHub`
 
 ---
 
-## 📫 Connect With Me
+### 🚀 Featured Project
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/your-profile)  
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:your.email@example.com)
+#### 💡 Fraud_Shield  
+> 🧠 An AI-based Financial Fraud Detection System  
+> Developed during **Hackathon 6.0**, this project leverages **machine learning models** integrated through **Django** to detect anomalous financial behavior in transactions and flag potentially fraudulent activities.
+
+📌 [GitHub Repository »](https://github.com/kasakmasrani/Fraud_Shield)
+
+---
+
+### 🎓 Certifications
+
+- **TCS iON Career Edge – Young Professional**  
+  > Covered: Communication, Presentation, Resume Writing, IT Skills
+
+---
+
+### 🌱 Currently Learning
+
+- Advanced Django + REST APIs  
+- Machine Learning Basics  
+- Clean Architecture for Scalable Apps
+
+---
+
+### 📫 Let's Connect!
+
+- ✉️ Email: kasakmasrani@gmail.com  
+- 💼 LinkedIn: [kasak-masrani](https://www.linkedin.com/in/kasak-masrani-3a002933a)
 
 ---
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kasakmasrani&label=Profile%20views&color=0e75b6&style=flat" alt="kasakmasrani" />
+</p>
+
+
